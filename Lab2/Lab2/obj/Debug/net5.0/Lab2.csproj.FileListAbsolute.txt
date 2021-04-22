@@ -1,0 +1,16 @@
+D:\Katya C#\Lab2\Lab2\bin\Debug\net5.0\Lab2.exe
+D:\Katya C#\Lab2\Lab2\bin\Debug\net5.0\Lab2.deps.json
+D:\Katya C#\Lab2\Lab2\bin\Debug\net5.0\Lab2.runtimeconfig.json
+D:\Katya C#\Lab2\Lab2\bin\Debug\net5.0\Lab2.runtimeconfig.dev.json
+D:\Katya C#\Lab2\Lab2\bin\Debug\net5.0\Lab2.dll
+D:\Katya C#\Lab2\Lab2\bin\Debug\net5.0\ref\Lab2.dll
+D:\Katya C#\Lab2\Lab2\bin\Debug\net5.0\Lab2.pdb
+D:\Katya C#\Lab2\Lab2\obj\Debug\net5.0\Lab2.csprojAssemblyReference.cache
+D:\Katya C#\Lab2\Lab2\obj\Debug\net5.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Katya C#\Lab2\Lab2\obj\Debug\net5.0\Lab2.AssemblyInfoInputs.cache
+D:\Katya C#\Lab2\Lab2\obj\Debug\net5.0\Lab2.AssemblyInfo.cs
+D:\Katya C#\Lab2\Lab2\obj\Debug\net5.0\Lab2.csproj.CoreCompileInputs.cache
+D:\Katya C#\Lab2\Lab2\obj\Debug\net5.0\Lab2.dll
+D:\Katya C#\Lab2\Lab2\obj\Debug\net5.0\ref\Lab2.dll
+D:\Katya C#\Lab2\Lab2\obj\Debug\net5.0\Lab2.pdb
+D:\Katya C#\Lab2\Lab2\obj\Debug\net5.0\Lab2.genruntimeconfig.cache
