@@ -1,6 +1,6 @@
 ﻿using System;
 
- class Square : Figure
+ internal class Square : Figure
 {
     private int side;
     public int Side { get { return side;  } set { this.side = value;  } }
